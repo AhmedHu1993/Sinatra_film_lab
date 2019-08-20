@@ -1,0 +1,15 @@
+
+body {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 25px;
+  background-color: #4B8EBA;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
